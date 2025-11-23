@@ -1,5 +1,5 @@
 @tool
-extends Sprite2D
+extends Control
 class_name UianimatorGod
 
 ## Universal UI Animation System for Godot 4
